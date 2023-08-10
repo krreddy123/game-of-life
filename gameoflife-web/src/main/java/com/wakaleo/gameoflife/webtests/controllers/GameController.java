@@ -1,6 +1,5 @@
 package com.wakaleo.gameoflife.webtests.controllers;
-//comment1
-//comment2
+
 import java.util.Random;
 
 import javax.servlet.http.HttpServletRequest;
